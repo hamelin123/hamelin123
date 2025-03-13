@@ -106,7 +106,7 @@
 ## 📊 สถิติ GitHub ของฉัน
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devthai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaMeLin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
