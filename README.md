@@ -156,7 +156,7 @@
 
 **เทคโนโลยีที่ใช้:** Angular, ASP.NET Core, SQL Server, CI/CD with GitHub Actions, Azure
 
-![E-Learning Platform](https://hamelin123.github.io/hamelin123/assets/elearning-platform-complete.svg)
+![E-Learning Platform](./assets/elearning-platform-complete.svg)
 
 ## 🤝 ติดต่อและเชื่อมต่อกับฉัน
 
