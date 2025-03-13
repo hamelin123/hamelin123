@@ -106,21 +106,21 @@
 ## 📊 สถิติ GitHub ของฉัน
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaMeLin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaMeLin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaMeLin&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=HaMeLin&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ## 📝 ภาษาที่ใช้บ่อยที่สุด
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamelin123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamelin123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🌟 ความชำนาญของฉัน
