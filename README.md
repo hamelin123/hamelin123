@@ -103,6 +103,19 @@
 | ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) | ⭐⭐⭐ |
 | ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white) | ⭐⭐ |
 
+### 🔒 Security (SecOps)
+| เทคโนโลยี | ระดับความชำนาญ |
+| --------- | ------------- |
+| ![Trivy](https://img.shields.io/badge/-Trivy-2496ED?style=flat-square&logo=aquasecurity&logoColor=white) | ⭐⭐⭐⭐ |
+| ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | ⭐⭐⭐ |
+| ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-F15932?style=flat-square&logo=owasp&logoColor=white) | ⭐⭐ |
+| ![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white) | ⭐⭐ |
+| ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white) | ⭐⭐⭐ |
+| ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) | ⭐⭐ |
+| ![Nessus](https://img.shields.io/badge/-Nessus-7CC24A?style=flat-square&logo=tenable&logoColor=white) | ⭐⭐ |
+| ![AWS Security Hub](https://img.shields.io/badge/-AWS_Security_Hub-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐⭐ |
+| ![AppScan](https://img.shields.io/badge/-AppScan-052FAD?style=flat-square&logo=ibm&logoColor=white) | ⭐⭐ |
+
 ## 📊 สถิติ GitHub ของฉัน
 
 <div align="center">
@@ -143,18 +156,6 @@
 - **Networking:** จัดการ VPC, Subnets, Load Balancers, และ Security Groups
 - **Security:** ติดตั้งและกำหนดค่า Firewalls, VPNs, และ SSL Certificates
 
-### 🔒 Security (SecOps)
-| เทคโนโลยี | ระดับความชำนาญ |
-| --------- | ------------- |
-| ![Trivy](https://img.shields.io/badge/-Trivy-2496ED?style=flat-square&logo=aquasecurity&logoColor=white) | ⭐⭐⭐⭐ |
-| ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | ⭐⭐⭐ |
-| ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-F15932?style=flat-square&logo=owasp&logoColor=white) | ⭐⭐ |
-| ![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white) | ⭐⭐ |
-| ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white) | ⭐⭐⭐ |
-| ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) | ⭐⭐ |
-| ![Nessus](https://img.shields.io/badge/-Nessus-7CC24A?style=flat-square&logo=tenable&logoColor=white) | ⭐⭐ |
-| ![AWS Security Hub](https://img.shields.io/badge/-AWS_Security_Hub-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐⭐ |
-| ![AppScan](https://img.shields.io/badge/-AppScan-052FAD?style=flat-square&logo=ibm&logoColor=white) | ⭐⭐ |
 
 ### 🛡️ ประสบการณ์ด้าน Security
 - **Container Security:** การสแกนความเสี่ยงด้วย Trivy และ Snyk ในขั้นตอน CI/CD สำหรับ container images
