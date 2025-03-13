@@ -8,12 +8,11 @@
 
 นักพัฒนาซอฟต์แวร์ Full Stack ที่มีประสบการณ์ในการพัฒนาเว็บแอปพลิเคชัน ฉันชื่นชอบการสร้างโซลูชั่นที่มีประสิทธิภาพและการนำเทคโนโลยีใหม่ๆ มาประยุกต์ใช้ในโปรเจกต์ มีความสนใจเป็นพิเศษในด้าน DevOps และ Cloud Infrastructure
 
-- 🔭 ปัจจุบันฉันกำลังทำงานเกี่ยวกับ **[ชื่อโปรเจกต์ของคุณ]**
-- 🌱 กำลังศึกษาเพิ่มเติมเกี่ยวกับ **[เทคโนโลยีที่กำลังเรียนรู้]**
-- 👯 มองหาโอกาสร่วมงานกับ **[ประเภทโปรเจกต์ที่สนใจ]**
-- 💬 สอบถามเกี่ยวกับ **[หัวข้อที่คุณเชี่ยวชาญ]**
-- 📫 ติดต่อฉัน: **[อีเมลของคุณ]**
-- ⚡ ข้อมูลสนุกๆ: **[ข้อมูลน่าสนใจเกี่ยวกับตัวคุณ]**
+- 🔭 ปัจจุบันฉันกำลังทำงานเกี่ยวกับ **[Freelance]**
+- 🌱 กำลังศึกษาเพิ่มเติมเกี่ยวกับ **[LLM]**
+- 👯 มองหาโอกาสร่วมงานกับ **[DevSecOps and Claude Infrastructure]**
+- 💬 สอบถามเกี่ยวกับ **[Web front-End Back-End DevOps]**
+- 📫 ติดต่อฉัน: **[kuhakuzaza@gmail.com]**
 
 ## 🛠️ ทักษะและระดับความชำนาญ
 
@@ -23,7 +22,7 @@
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐ |
+| ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐⭐ |
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ⭐⭐⭐ |
 | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ⭐⭐ |
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ⭐⭐⭐ |
@@ -37,10 +36,10 @@
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ⭐⭐⭐ |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ⭐⭐ |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ⭐⭐⭐⭐ |
-| ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) | ⭐⭐⭐ |
-| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ⭐⭐⭐ |
+| ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) | ⭐⭐ |
+| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ⭐⭐ |
 
 ### 🔧 Backend
 | เทคโนโลยี | ระดับความชำนาญ |
@@ -76,24 +75,24 @@
 | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ⭐⭐⭐ |
 | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ⭐⭐⭐⭐ |
 | ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white) | ⭐⭐⭐ |
-| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ⭐⭐⭐ |
+| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ⭐⭐ |
 | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ⭐⭐ |
-| ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | ⭐⭐⭐ |
-| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | ⭐⭐⭐ |
-| ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) | ⭐⭐ |
+| ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | ⭐⭐ |
+| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | ⭐⭐ |
+| ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) | ⭐⭐⭐⭐ |
 
 ### ☁️ Cloud & Infrastructure
 | เทคโนโลยี | ระดับความชำนาญ |
 | --------- | ------------- |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐⭐⭐ |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐ |
 | ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ⭐⭐⭐ |
-| ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) | ⭐⭐ |
-| ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ⭐⭐⭐ |
-| ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) | ⭐⭐⭐ |
+| ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ⭐⭐ |
+| ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) | ⭐⭐⭐ |
 | ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white) | ⭐⭐⭐ |
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ⭐⭐⭐⭐ |
 | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ⭐⭐⭐⭐ |
-| ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) | ⭐⭐⭐ |
+| ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) | ⭐⭐⭐⭐ |
 
 ### 🔍 Testing
 | เทคโนโลยี | ระดับความชำนาญ |
@@ -107,7 +106,7 @@
 ## 📊 สถิติ GitHub ของฉัน
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devthai&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
