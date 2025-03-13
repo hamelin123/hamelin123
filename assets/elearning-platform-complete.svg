@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f0f2f5"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#5e35b1"/>
+  <text x="30" y="38" font-family="Arial" font-size="22" fill="white" font-weight="bold">E-Learning Platform</text>
+  
+  <!-- Search Bar -->
+  <rect x="300" y="15" width="240" height="30" rx="15" fill="white"/>
+  <text x="320" y="35" font-family="Arial" font-size="14" fill="#9e9e9e">Search courses...</text>
+  
+  <!-- User Menu -->
+  <circle cx="740" cy="30" r="20" fill="#4527a0"/>
+  <text x="736" y="35" font-family="Arial" font-size="14" fill="white">U</text>
+  
+  <rect x="650" y="15" width="30" height="30" rx="15" fill="transparent" stroke="white"/>
+  <text x="660" y="35" font-family="Arial" font-size="14" fill="white">🔔</text>
+  
+  <rect x="690" y="15" width="30" height="30" rx="15" fill="transparent" stroke="white"/>
+  <text x="700" y="35" font-family="Arial" font-size="14" fill="white">💬</text>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="60" width="200" height="440" fill="white"/>
+  
+  <rect x="20" y="90" width="160" height="40" rx="5" fill="#ede7f6"/>
+  <text x="55" y="115" font-family="Arial" font-size="14" fill="#5e35b1">Dashboard</text>
+  
+  <rect x="20" y="140" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="165" font-family="Arial" font-size="14" fill="#616161">My Courses</text>
+  
+  <rect x="20" y="190" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="215" font-family="Arial" font-size="14" fill="#616161">Course Catalog</text>
+  
+  <rect x="20" y="240" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="265" font-family="Arial" font-size="14" fill="#616161">Calendar</text>
+  
+  <rect x="20" y="290" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="315" font-family="Arial" font-size="14" fill="#616161">Messages</text>
+  
+  <rect x="20" y="340" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="365" font-family="Arial" font-size="14" fill="#616161">Achievements</text>
+  
+  <rect x="20" y="390" width="160" height="40" rx="5" fill="transparent" stroke="#e0e0e0"/>
+  <text x="55" y="415" font-family="Arial" font-size="14" fill="#616161">Settings</text>
+  
+  <!-- Main Content -->
+  <rect x="220" y="80" width="560" height="50" rx="5" fill="white"/>
+  <text x="240" y="110" font-family="Arial" font-size="18" fill="#212121" font-weight="bold">Welcome back, Student!</text>
+  <text x="570" y="110" font-family="Arial" font-size="14" fill="#5e35b1">View all courses →</text>
+  
+  <!-- Continue Learning Section -->
+  <text x="220" y="160" font-family="Arial" font-size="16" fill="#212121" font-weight="bold">Continue Learning</text>
+  
+  <!-- Course Card 1 -->
+  <rect x="220" y="170" width="270" height="160" rx="5" fill="white"/>
+  <rect x="220" y="170" width="270" height="90" rx="5 5 0 0" fill="#7c4dff"/>
+  <rect x="235" y="240" width="80" height="20" rx="10" fill="#ede7f6"/>
+  <text x="245" y="255" font-family="Arial" font-size="12" fill="#5e35b1">Programming</text>
+  <text x="235" y="280" font-family="Arial" font-size="14" fill="#212121" font-weight="bold">Introduction to Python</text>
+  <text x="235" y="300" font-family="Arial" font-size="12" fill="#757575">Progress: 60%</text>
+  <rect x="235" y="310" width="240" height="5" rx="2.5" fill="#e0e0e0"/>
+  <rect x="235" y="310" width="144" height="5" rx="2.5" fill="#5e35b1"/>
+  
+  <!-- Course Card 2 -->
+  <rect x="510" y="170" width="270" height="160" rx="5" fill="white"/>
+  <rect x="510" y="170" width="270" height="90" rx="5 5 0 0" fill="#42a5f5"/>
+  <rect x="525" y="240" width="90" height="20" rx="10" fill="#e3f2fd"/>
+  <text x="535" y="255" font-family="Arial" font-size="12" fill="#1976d2">Web Design</text>
+  <text x="525" y="280" font-family="Arial" font-size="14" fill="#212121" font-weight="bold">HTML & CSS Fundamentals</text>
+  <text x="525" y="300" font-family="Arial" font-size="12" fill="#757575">Progress: 35%</text>
+  <rect x="525" y="310" width="240" height="5" rx="2.5" fill="#e0e0e0"/>
+  <rect x="525" y="310" width="84" height="5" rx="2.5" fill="#42a5f5"/>
+  
+  <!-- Progress Stats -->
+  <rect x="220" y="340" width="560" height="30" rx="5" fill="white"/>
+  <text x="235" y="360" font-family="Arial" font-size="12" fill="#757575">Weekly Learning Goal: 4 hours completed out of 5 hours</text>
+  <rect x="440" y="351" width="320" height="8" rx="4" fill="#e0e0e0"/>
+  <rect x="440" y="351" width="256" height="8" rx="4" fill="#5e35b1"/>
+  
+  <!-- Recommended Courses -->
+  <text x="220" y="390" font-family="Arial" font-size="16" fill="#212121" font-weight="bold">Recommended For You</text>
+  
+  <!-- Recommended Course Cards -->
+  <rect x="220" y="400" width="175" height="110" rx="5" fill="white"/>
+  <rect x="220" y="400" width="175" height="60" rx="5 5 0 0" fill="#ff7043"/>
+  <text x="230" y="475" font-family="Arial" font-size="13" fill="#212121" font-weight="bold">JavaScript Basics</text>
+  <text x="230" y="490" font-family="Arial" font-size="11" fill="#757575">4.8 ★ (1,240 ratings)</text>
+  
+  <rect x="410" y="400" width="175" height="110" rx="5" fill="white"/>
+  <rect x="410" y="400" width="175" height="60" rx="5 5 0 0" fill="#66bb6a"/>
+  <text x="420" y="475" font-family="Arial" font-size="13" fill="#212121" font-weight="bold">Data Science Intro</text>
+  <text x="420" y="490" font-family="Arial" font-size="11" fill="#757575">4.9 ★ (2,130 ratings)</text>
+  
+  <rect x="600" y="400" width="175" height="110" rx="5" fill="white"/>
+  <rect x="600" y="400" width="175" height="60" rx="5 5 0 0" fill="#ec407a"/>
+  <text x="610" y="475" font-family="Arial" font-size="13" fill="#212121" font-weight="bold">UX Design Principles</text>
+  <text x="610" y="490" font-family="Arial" font-size="11" fill="#757575">4.7 ★ (980 ratings)</text>
+</svg>
