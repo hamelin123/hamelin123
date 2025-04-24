@@ -66,6 +66,7 @@
 | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ⭐⭐⭐⭐ |
 | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ⭐⭐ |
 | ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) | ⭐⭐⭐ |
+| ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
 
 ### 🔥 Firebase & Cloud Services
 | เทคโนโลยี | ระดับความชำนาญ |
