@@ -67,6 +67,15 @@
 | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ⭐⭐ |
 | ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) | ⭐⭐⭐ |
 
+### 🔥 Firebase & Cloud Services
+| เทคโนโลยี | ระดับความชำนาญ |
+| --------- | ------------- |
+| ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
+| ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
+| ![Firebase Auth](https://img.shields.io/badge/-Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
+| ![Firebase Hosting](https://img.shields.io/badge/-Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
+| ![Cloud Functions](https://img.shields.io/badge/-Cloud_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐ |
+
 ### 🚀 DevOps
 | เทคโนโลยี | ระดับความชำนาญ |
 | --------- | ------------- |
