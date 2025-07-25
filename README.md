@@ -183,7 +183,7 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 - **Compliance Automation:** Maintained continuous compliance with security standards
 - **Security in CI/CD:** Integrated security checks into automated pipelines
 
-## 🏆 Projects I'm Proud Of
+## 🏆 Projects I'm Proud Of (Web & DevOps)
 
 ### [Restaurant Management System]
 A full-featured restaurant management system built using MERN Stack with PostgreSQL as the main database. This project solves complex issues such as order tracking, table reservations, and inventory management by integrating everything into a single platform.
