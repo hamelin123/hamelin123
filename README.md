@@ -141,7 +141,7 @@ A passionate Full Stack Software Developer with hands-on experience in building 
   <img src="https://komarev.com/ghpvc/?username=HaMeLin&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-## 📝 ภาษาที่ใช้บ่อยที่สุด
+## 📝 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamelin123&layout=compact&theme=tokyonight" alt="Top Languages" />
