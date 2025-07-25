@@ -315,6 +315,8 @@ Complete e-learning solution with course management, video streaming, interactiv
 
 *These projects demonstrate practical experience in modern DevOps practices, cloud infrastructure management, and full-stack development. Each project follows industry best practices and includes comprehensive documentation.*
 
+#### 📚 **WEB Platform**
+
 
 ### [Restaurant Management System]
 A full-featured restaurant management system built using MERN Stack with PostgreSQL as the main database. This project solves complex issues such as order tracking, table reservations, and inventory management by integrating everything into a single platform.
