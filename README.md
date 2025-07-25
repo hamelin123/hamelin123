@@ -1,23 +1,23 @@
-# 👋 สวัสดีครับ, ยินดีต้อนรับสู่ GitHub ของผม!
+# 👋 Hello, Welcome to GitHub Zen!
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
-## 👨‍💻 เกี่ยวกับตัวของผมเอง
+## 👨‍💻 About Me
 
-นักพัฒนาซอฟต์แวร์ Full Stack ที่มีประสบการณ์ในการพัฒนาเว็บแอปพลิเคชัน ผมชื่นชอบการสร้างโซลูชั่นที่มีประสิทธิภาพและการนำเทคโนโลยีใหม่ๆ มาประยุกต์ใช้ในโปรเจกต์ มีความสนใจเป็นพิเศษในด้าน DevOps และ Cloud Infrastructure
+A passionate Full Stack Software Developer with hands-on experience in building efficient web applications and implementing new technologies into projects. Particularly interested in **DevOps** and **Cloud Infrastructure**.
 
-- 🔭 ปัจจุบันฉันกำลังทำงานเกี่ยวกับ **[Freelance]**
-- 🌱 กำลังศึกษาเพิ่มเติมเกี่ยวกับ **[LLM]**
-- 👯 มองหาโอกาสร่วมงานกับ **[DevSecOps and Cloud Infrastructure]**
-- 💬 สอบถามเกี่ยวกับ **[Web front-End Back-End DevOps]**
-- 📫 ติดต่อ: **[kuhakuzaza@gmail.com]**
+- 🔭 Currently working on **[Freelance Projects]**
+- 🌱 Learning more about **Large Language Models (LLMs)**
+- 👯 Looking for opportunities in **DevSecOps and Cloud Infrastructure**
+- 💬 Ask me about **Web Frontend, Backend, and DevOps topics**
+- 📫 Contact me: **kuhakuzaza@gmail.com**
 
-## 🛠️ ทักษะและระดับความชำนาญ
+## 🛠️ Skills and Proficiency
 
-### 💻 ภาษาโปรแกรมมิ่ง
-| เทคโนโลยี | ระดับความชำนาญ |
+### 💻 Programming Languages
+| Technology  | Proficiency  |
 | --------- | ------------- |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ |
@@ -28,7 +28,7 @@
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ⭐⭐⭐ |
 
 ### 🎨 Frontend
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐ |
@@ -42,7 +42,7 @@
 | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ⭐⭐ |
 
 ### 🔧 Backend
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ⭐⭐⭐⭐⭐ |
 | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ⭐⭐⭐⭐ |
@@ -56,7 +56,7 @@
 | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ⭐⭐⭐ |
 
 ### 🗄️ Database
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐ |
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ |
@@ -69,7 +69,7 @@
 | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
 
 ### 🔥 Firebase & Cloud Services
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
 | ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐⭐ |
@@ -78,7 +78,7 @@
 | ![Cloud Functions](https://img.shields.io/badge/-Cloud_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ⭐⭐ |
 
 ### 🚀 DevOps
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ⭐⭐⭐⭐ |
 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ⭐⭐⭐ |
@@ -92,7 +92,7 @@
 | ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) | ⭐⭐⭐⭐ |
 
 ### ☁️ Cloud & Infrastructure
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐ |
 | ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ⭐⭐⭐ |
@@ -105,7 +105,7 @@
 | ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) | ⭐⭐⭐⭐ |
 
 ### 🔍 Testing
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) | ⭐⭐⭐⭐ |
 | ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white) | ⭐⭐⭐ |
@@ -114,7 +114,7 @@
 | ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white) | ⭐⭐ |
 
 ### 🔒 Security (SecOps)
-| เทคโนโลยี | ระดับความชำนาญ |
+| Technology | Proficiency  |
 | --------- | ------------- |
 | ![Trivy](https://img.shields.io/badge/-Trivy-2496ED?style=flat-square&logo=aquasecurity&logoColor=white) | ⭐⭐⭐⭐ |
 | ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | ⭐⭐⭐ |
@@ -126,7 +126,7 @@
 | ![AWS Security Hub](https://img.shields.io/badge/-AWS_Security_Hub-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ⭐⭐⭐ |
 | ![AppScan](https://img.shields.io/badge/-AppScan-052FAD?style=flat-square&logo=ibm&logoColor=white) | ⭐⭐ |
 
-## 📊 สถิติ GitHub ของผม
+## 📊 status GitHub Me
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaMeLin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
@@ -147,57 +147,66 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamelin123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🌟 ความชำนาญของฉัน
+## 🌟 My Expertise
 
-### 💼 ทักษะทางเทคนิค
-- **ชำนาญเป็นพิเศษ (⭐⭐⭐⭐⭐):** JavaScript, HTML5, CSS3, Node.js
-- **ชำนาญมาก (⭐⭐⭐⭐):** TypeScript, Python, React, Next.js, Express.js, Flask, PostgreSQL, MySQL, MongoDB, Docker, GitHub Actions, AWS
-- **ชำนาญ (⭐⭐⭐):** Vue.js, Golang, PHP, Java, NestJS, Django, Redis, Kubernetes, Jenkins, Terraform
+### 💼 Technical Skills
+- **Expert (⭐⭐⭐⭐⭐):** JavaScript, HTML5, CSS3, Node.js
+- **Advanced (⭐⭐⭐⭐):** TypeScript, Python, React, Next.js, Express.js, Flask, PostgreSQL, MySQL, MongoDB, Docker, GitHub Actions, AWS
+- **Proficient (⭐⭐⭐):** Vue.js, Golang, PHP, Java, NestJS, Django, Redis, Kubernetes, Jenkins, Terraform
 
-### 🧩 ประสบการณ์โปรเจกต์ด้าน DevOps
-- **CI/CD Automation:** พัฒนาไปป์ไลน์อัตโนมัติสำหรับการทดสอบและการปรับใช้งาน
-- **Container Orchestration:** บริหารจัดการแอปพลิเคชันที่ใช้งานบนคอนเทนเนอร์ด้วย Docker และ Kubernetes
-- **Infrastructure as Code:** ออกแบบและจัดการโครงสร้างพื้นฐานด้วย Terraform และ AWS CloudFormation
-- **Monitoring & Logging:** ติดตั้งและกำหนดค่า Prometheus, Grafana, และ ELK Stack
+### 🧩 DevOps Project Experience
+- **CI/CD Automation:** Developed automated pipelines for testing and deployment
+- **Container Orchestration:** Managed containerized applications using Docker and Kubernetes
+- **Infrastructure as Code:** Designed and provisioned infrastructure with Terraform and AWS CloudFormation
+- **Monitoring & Logging:** Installed and configured Prometheus, Grafana, and ELK Stack
 
-### 🏗️ ประสบการณ์ด้าน Infrastructure
-- **Cloud Platforms:** ออกแบบและจัดการทรัพยากรบน AWS, GCP, Azure
-- **Networking:** จัดการ VPC, Subnets, Load Balancers, และ Security Groups
-- **Security:** ติดตั้งและกำหนดค่า Firewalls, VPNs, และ SSL Certificates
+### 🏗️ Infrastructure Experience
+- **Cloud Platforms:** Designed and managed cloud resources on AWS, GCP, Azure
+- **Networking:** Managed VPCs, subnets, load balancers, and security groups
+- **Security:** Configured firewalls, VPNs, and SSL certificates
+
+### 🛡️ Security Experience
+- **Container Security:** Image scanning in CI/CD using Trivy and Snyk
+- **Static Code Analysis:** Ensured code quality and security using SonarQube
+- **Dynamic App Security Testing:** Used OWASP ZAP for runtime app vulnerability testing
+- **Secret Management:** Managed sensitive data using HashiCorp Vault
+- **Compliance Automation:** Maintained continuous compliance with security standards
+- **Security in CI/CD:** Integrated security checks into automated pipelines
 
 
-### 🛡️ ประสบการณ์ด้าน Security
-- **Container Security:** การสแกนความเสี่ยงด้วย Trivy และ Snyk ในขั้นตอน CI/CD สำหรับ container images
-- **Static Code Analysis:** การตรวจสอบคุณภาพและความปลอดภัยของโค้ดด้วย SonarQube
-- **Dynamic Application Security Testing:** การทดสอบความปลอดภัยของแอปพลิเคชันด้วย OWASP ZAP
-- **Secret Management:** การจัดการและปกป้องข้อมูลลับด้วย HashiCorp Vault
-- **Compliance Automation:** การตรวจสอบและทำให้มั่นใจว่ามีการปฏิบัติตามมาตรฐานความปลอดภัยอย่างต่อเนื่อง
-- **Security in CI/CD:** การบูรณาการการตรวจสอบความปลอดภัยในไปป์ไลน์อัตโนมัติ
 
-## 🏆 ผลงานที่ภาคภูมิใจ
+### 🛡️ Security Experience
+- **Container Security:** Image scanning in CI/CD using Trivy and Snyk
+- **Static Code Analysis:** Ensured code quality and security using SonarQube
+- **Dynamic App Security Testing:** Used OWASP ZAP for runtime app vulnerability testing
+- **Secret Management:** Managed sensitive data using HashiCorp Vault
+- **Compliance Automation:** Maintained continuous compliance with security standards
+- **Security in CI/CD:** Integrated security checks into automated pipelines
+
+## 🏆 Projects I'm Proud Of
 
 ### [Restaurant Management System]
-ระบบ [ระบบบริหารจัดการร้านอาหารแบบครบวงจรที่พัฒนาด้วย MERN Stack และ PostgreSQL เป็นฐานข้อมูลหลัก โปรเจกต์นี้ช่วยแก้ปัญหาการจัดการคำสั่งซื้อ การจองโต๊ะ และการบริหารสินค้าคงคลังที่มักจะซับซ้อนในร้านอาหารขนาดกลางถึงขนาดใหญ่ ด้วยการรวมระบบเหล่านี้เข้าด้วยกันในแพลตฟอร์มเดียว] 
+A full-featured restaurant management system built using MERN Stack with PostgreSQL as the main database. This project solves complex issues such as order tracking, table reservations, and inventory management by integrating everything into a single platform.
 
-**เทคโนโลยีที่ใช้:** React, Node.js, PostgreSQL, Docker, AWS
+**Technologies:** React, Node.js, PostgreSQL, Docker, AWS
 
 ![Restaurant Management System](./assets/restaurant-management-fixed.svg)
 
 ### [Smart Health Tracker]
-แอปพลิเคชันติดตามสุขภาพที่ช่วยผู้ใช้ติดตามการออกกำลังกาย อาหาร และการนอนหลับ พร้อมแสดงข้อมูลเชิงลึกและคำแนะนำที่ปรับแต่งเฉพาะบุคคล ฉันได้เรียนรู้การทำงานกับ MongoDB สำหรับการจัดเก็บข้อมูลไม่มีโครงสร้าง และการใช้ Django เป็น REST API สำหรับ Vue.js frontend ตลอดจนการปรับใช้งานบน Kubernetes บน Google Cloud Platform
+A health tracking app that helps users monitor their workouts, meals, and sleep, with personalized insights and recommendations. I worked with MongoDB for unstructured data, Django for the REST API, and deployed to Kubernetes on Google Cloud.
 
-**เทคโนโลยีที่ใช้:** Vue.js, Django, MongoDB, Kubernetes, GCP
+**Technologies:** Vue.js, Django, MongoDB, Kubernetes, GCP
 
 ![Smart Health Tracker](./assets/smart-health-tracker.svg)
 
 ### [E-Learning Platform]
-เว็บไซต์แพลตฟอร์มการเรียนรู้ออนไลน์ที่มีระบบการจัดการคอร์สเรียน การสตรีมวิดีโอ และระบบบันทึกความก้าวหน้า โปรเจกต์นี้ช่วยให้ผู้ใช้สามารถเข้าถึงเนื้อหาการเรียนรู้ได้ทุกที่ทุกเวลา มีระบบทดสอบความเข้าใจ และมีแดชบอร์ดวิเคราะห์ผลการเรียนรู้ที่ครอบคลุม
+An online learning platform with course management, video streaming, and progress tracking. Enables users to access content anytime, take assessments, and view learning analytics.
 
-**เทคโนโลยีที่ใช้:** Angular, ASP.NET Core, SQL Server, CI/CD with GitHub Actions, Azure
+**Technologies:** Angular, ASP.NET Core, SQL Server, CI/CD with GitHub Actions, Azure
 
 ![E-Learning Platform](./assets/elearning-platform-complete.svg)
 
-## 🤝 ติดต่อและเชื่อมต่อกับฉัน
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/nattapong-poosakul-2b319532a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -210,5 +219,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
-  <p>ขอบคุณที่แวะมาชมโปรไฟล์ของผม!</p>
+  <p>Thanks for visiting my profile!</p>
 </div>
