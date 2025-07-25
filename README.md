@@ -185,6 +185,137 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 
 ## 🏆 Projects I'm Proud Of (Web & DevOps)
 
+## 🏆 Featured Projects
+
+### ⚙️ DevOps / Infrastructure Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🔐 **[Secure CI/CD Pipeline](https://github.com/hamelin123/devsecops-pipeline-demo)** | DevSecOps pipeline with integrated security scanning and GitOps deployment | GitLab CI/CD, ArgoCD, Kubernetes, SonarQube, Trivy | ✅ Active |
+| ☁️ **[AWS Infrastructure with Terraform](https://github.com/hamelin123/terraform-aws-infra-demo)** | Complete AWS infrastructure provisioning using Infrastructure as Code | Terraform, AWS EKS, RDS, VPC, S3 | ✅ Active |
+| 📈 **[Kubernetes Monitoring Stack](https://github.com/hamelin123/k8s-monitoring-stack-demo)** | Comprehensive monitoring solution for Kubernetes clusters | Prometheus, Grafana, AlertManager, Docker | ✅ Active |
+
+</div>
+
+---
+
+### 🔐 **DevSecOps Pipeline Demo**
+*Automated security-first CI/CD pipeline with integrated scanning and deployment*
+
+**Key Features:**
+- **Security Scanning:** SonarQube, Trivy, CodeQL integration
+- **GitOps Deployment:** ArgoCD for Kubernetes deployment
+- **Pipeline Security:** Secret management and compliance automation
+- **Quality Gates:** Automated quality and security checks
+
+**Technologies:** GitLab CI/CD • ArgoCD • Kubernetes • Helm • SonarQube • Trivy • CodeQL
+
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamelin123/devsecops-pipeline-demo)
+
+---
+
+### ☁️ **Terraform AWS Infrastructure**
+*Infrastructure as Code for scalable AWS cloud resources*
+
+**Key Features:**
+- **Multi-Environment:** Dev, Staging, Production configurations
+- **EKS Cluster:** Managed Kubernetes with auto-scaling
+- **Database:** RDS PostgreSQL with Multi-AZ setup
+- **Security:** VPC, Security Groups, IAM roles, encryption
+
+**Technologies:** Terraform • AWS EKS • RDS • VPC • S3 • CloudWatch • Auto Scaling
+
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamelin123/terraform-aws-infra-demo)
+
+---
+
+### 📈 **Kubernetes Monitoring Stack**
+*Complete observability solution for containerized applications*
+
+**Key Features:**
+- **Metrics Collection:** Prometheus with custom exporters
+- **Visualization:** Grafana dashboards and real-time monitoring
+- **Alerting:** AlertManager with Slack/Email notifications
+- **Multi-Cluster:** Support for multiple Kubernetes environments
+
+**Technologies:** Prometheus • Grafana • AlertManager • Kubernetes • Docker • Node Exporter
+
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamelin123/k8s-monitoring-stack-demo)
+
+---
+
+### 💻 **Web Development Projects**
+
+#### 🍽️ **Restaurant Management System**
+*Full-featured restaurant management with order tracking and inventory*
+
+A comprehensive restaurant management solution built with MERN stack, featuring real-time order tracking, table reservations, inventory management, and integrated payment processing.
+
+**Technologies:** React • Node.js • PostgreSQL • Docker • AWS
+
+---
+
+#### 🏥 **Smart Health Tracker**
+*Personal health monitoring with AI-powered insights*
+
+Health tracking application that monitors workouts, nutrition, and sleep patterns. Features personalized recommendations, progress analytics, and integration with wearable devices.
+
+**Technologies:** Vue.js • Django • MongoDB • Kubernetes • GCP
+
+---
+
+#### 📚 **E-Learning Platform**
+*Online learning platform with video streaming and progress tracking*
+
+Complete e-learning solution with course management, video streaming, interactive assessments, and detailed learning analytics for both students and instructors.
+
+**Technologies:** Angular • ASP.NET Core • SQL Server • Azure • CI/CD
+
+---
+
+<div align="center">
+
+### 🚀 **Project Stats**
+
+| Metric | Count |
+|--------|-------|
+| **Total Projects** | 6+ |
+| **DevOps Projects** | 3 |
+| **Web Applications** | 3 |
+| **Tech Stack Variety** | 20+ Technologies |
+| **Cloud Platforms** | AWS, GCP, Azure |
+
+</div>
+
+---
+
+### 📊 **Technical Highlights**
+
+#### 🛡️ **Security & DevSecOps**
+- Implemented automated security scanning in CI/CD pipelines
+- Integrated SonarQube, Trivy, and CodeQL for comprehensive code analysis
+- Established GitOps workflows with ArgoCD for secure deployments
+- Applied security-first mindset across all infrastructure projects
+
+#### ☁️ **Cloud & Infrastructure**
+- Designed scalable AWS infrastructure using Terraform IaC principles
+- Managed Kubernetes clusters with auto-scaling and high availability
+- Implemented comprehensive monitoring with Prometheus and Grafana
+- Optimized cloud costs through right-sizing and automation
+
+#### 🔄 **CI/CD & Automation**
+- Built robust CI/CD pipelines with GitLab and GitHub Actions
+- Automated deployment processes reducing manual errors by 90%
+- Implemented Infrastructure as Code for consistent environments
+- Established monitoring and alerting for proactive issue resolution
+
+---
+
+*These projects demonstrate practical experience in modern DevOps practices, cloud infrastructure management, and full-stack development. Each project follows industry best practices and includes comprehensive documentation.*
+
+
 ### [Restaurant Management System]
 A full-featured restaurant management system built using MERN Stack with PostgreSQL as the main database. This project solves complex issues such as order tracking, table reservations, and inventory management by integrating everything into a single platform.
 
