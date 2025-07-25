@@ -246,35 +246,6 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 
 ---
 
-### 💻 **Web Development Projects**
-
-#### 🍽️ **Restaurant Management System**
-*Full-featured restaurant management with order tracking and inventory*
-
-A comprehensive restaurant management solution built with MERN stack, featuring real-time order tracking, table reservations, inventory management, and integrated payment processing.
-
-**Technologies:** React • Node.js • PostgreSQL • Docker • AWS
-
----
-
-#### 🏥 **Smart Health Tracker**
-*Personal health monitoring with AI-powered insights*
-
-Health tracking application that monitors workouts, nutrition, and sleep patterns. Features personalized recommendations, progress analytics, and integration with wearable devices.
-
-**Technologies:** Vue.js • Django • MongoDB • Kubernetes • GCP
-
----
-
-#### 📚 **E-Learning Platform**
-*Online learning platform with video streaming and progress tracking*
-
-Complete e-learning solution with course management, video streaming, interactive assessments, and detailed learning analytics for both students and instructors.
-
-**Technologies:** Angular • ASP.NET Core • SQL Server • Azure • CI/CD
-
----
-
 <div align="center">
 
 ### 🚀 **Project Stats**
@@ -315,7 +286,7 @@ Complete e-learning solution with course management, video streaming, interactiv
 
 *These projects demonstrate practical experience in modern DevOps practices, cloud infrastructure management, and full-stack development. Each project follows industry best practices and includes comprehensive documentation.*
 
-#### 📚 **WEB Platform**
+## 🏆 WEB Projects
 
 
 ### [Restaurant Management System]
