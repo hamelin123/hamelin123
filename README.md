@@ -257,7 +257,7 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 | **DevOps Projects** | 3 |
 | **Web Applications** | 3 |
 | **Tech Stack Variety** | 20+ Technologies |
-| **Cloud Platforms** | AWS, GCP, Azure |
+| **Cloud Platforms** | AWS, GCP, Azure, Digital Ocean |
 
 </div>
 
