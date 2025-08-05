@@ -14,6 +14,14 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 - 💬 Ask me about **Web Frontend, Backend, and DevOps topics**
 - 📫 Contact me: **kuhakuzaza@gmail.com**
 
+## 🌟 My Expertise
+
+### 💼 Technical Skills
+- **Expert (⭐⭐⭐⭐⭐):** JavaScript, HTML5, CSS3, Node.js
+- **Advanced (⭐⭐⭐⭐):** TypeScript, Python, React, Next.js, Express.js, Flask, PostgreSQL, MySQL, MongoDB, Docker, GitHub Actions, AWS
+- **Proficient (⭐⭐⭐):** Vue.js, Golang, PHP, Java, NestJS, Django, Redis, Kubernetes, Jenkins, Terraform
+
+
 ## 🛠️ Skills and Proficiency
 
 ### 💻 Programming Languages
@@ -146,13 +154,6 @@ A passionate Full Stack Software Developer with hands-on experience in building 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamelin123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-## 🌟 My Expertise
-
-### 💼 Technical Skills
-- **Expert (⭐⭐⭐⭐⭐):** JavaScript, HTML5, CSS3, Node.js
-- **Advanced (⭐⭐⭐⭐):** TypeScript, Python, React, Next.js, Express.js, Flask, PostgreSQL, MySQL, MongoDB, Docker, GitHub Actions, AWS
-- **Proficient (⭐⭐⭐):** Vue.js, Golang, PHP, Java, NestJS, Django, Redis, Kubernetes, Jenkins, Terraform
 
 ### 🧩 DevOps Project Experience
 - **CI/CD Automation:** Developed automated pipelines for testing and deployment
